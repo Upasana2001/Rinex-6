@@ -8,3 +8,8 @@ op = model.predict([ip])
 if st.button('Predict'):
   st.title(op[0])  # st.buttton will cfeate a buttton with the name predict
   # st.title(op[0]) # the 0th element in op variable is displayed as a title
+
+  
+  
+  
+  
